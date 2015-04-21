@@ -6,7 +6,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://wam-pp.azurewebsites.net/"
+				<td><a href="https://d2tj697z1v6gzf.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -16,12 +16,12 @@
 				<td></td>
 	</tr>
 	</table><h2>
-	<a href="https://d3ati7u646xlpu.cloudfront.net/article/422" target="paopao-mirror">“冻疮行动”：新西兰被控监听中国外交情报</a>
+	<a href="https://d2tj697z1v6gzf.cloudfront.net/article/422" target="paopao-mirror">“冻疮行动”：新西兰被控监听中国外交情报</a>
 </h2>
 <p><p>据新西兰<a href="http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11434886" rel="nofollow">《星期日先驱报》</a>和<a href="https://firstlook.org/theintercept/2015/04/18/new-zealand-china-gcsb-nsa-auckland-hack/" rel="nofollow">The Intercept</a>报道，新西兰情报部门（GCSB）曾与美国NSA合作，通过窃听中国驻新领事馆与位于奥克兰的签证中心之间的数据连接，窃取中国外交情报。中国外交部周一对此表示严重关切。</p>
 <p>“我们强烈敦促有关国家停止利用互联网损害中国及其他国家利益的行径。”中国外交部发言人洪磊<a href="http://gb.cri.cn/42071/2015/04/20/2225s4937986.htm" rel="nofollow">在例行记者会上说道</a>。</p>
 <h2><strong>“冻疮行动”</strong></h2>
-<p>据<a href="https://d1rnppgpv4u79x.cloudfront.net/node/171" rel="nofollow">NSA前特工斯诺登</a>获得的机密文件，这个窃听项目被新西兰方面称为“冻疮行动”（Frostbite）（在美方的代号为“巴素海顿行动”Basilhayden）。</p>
+<p>据<a href="https://wam-pp.azurewebsites.net/node/171" rel="nofollow">NSA前特工斯诺登</a>获得的机密文件，这个窃听项目被新西兰方面称为“冻疮行动”（Frostbite）（在美方的代号为“巴素海顿行动”Basilhayden）。</p>
 <p>其中一份称为《NSA 2013年正在执行的活动》的 秘密文件，其中列出的一项活动包括：“新西兰：合作利用中国外交部连接”。据另一份NSA文件，这项活动已“发现了中国外交部在中国领事馆与奥克兰签证中心之间的数据连接。”</p>
 <p><img height="417" width="992" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/adaptive_image/adaptive-image/public/snowden3.jpg?itok=AKJ34Zil" alt="" title=""></p>
 <p>该文件还指出，新西兰情报部门与NSA已展开正式合作，且新西兰方面为NSA的“特定入侵行动办公室”（TAO）提供“额外的技术数据”。文件说，两国的情报部门已口头同意，通过被动与主动监控的方式，合作利用这个链接。</p>
@@ -36,20 +36,20 @@
 <p>新西兰情报组织的负责人Una Jagose女士在电子邮件中表示，拒绝对“冻疮行动”发表评论，但表示该组织“致力于保护新西兰及其国民······我们所作的每件事都得到明确授权、且受独立监察。”<br><br>新西兰总理周一在接受新西兰电台采访时表示，这份报道中有关新西兰联手美国对华实施监控的消息，“未得到证实”。在接受新西兰电视3台采访时拒绝就该报的报道进行评论：“我们与中国的关系十分紧密，双方公开且无所不谈。”他表示中方不会就此“假设话题”对新西兰提出交涉，但“如果中方提出交涉，我将会十分惊讶”。</p>
 <p>《星期日先驱报》在报道中引述中国使馆的一名发言人称，中方对这份报道表示严重关切。“中国提议通过对话解决争端，并制定被各方接受的网络空间新闻准则。”中方发言人说。</p>
 <h2><strong>大国互相监控，拒绝公开讨论</strong></h2>
-<p>中国本身也多次<a href="https://wam-pp1.azurewebsites.net/node/99" rel="nofollow">被美国指责对美国电脑网络实行间谍活动</a>。去年，一次入侵新西兰超级电脑的黑客行为被曝光，也被查到与中国有关。</p>
+<p>中国本身也多次<a href="https://d1rnppgpv4u79x.cloudfront.net/node/99" rel="nofollow">被美国指责对美国电脑网络实行间谍活动</a>。去年，一次入侵新西兰超级电脑的黑客行为被曝光，也被查到与中国有关。</p>
 <p>在刚刚落幕的<a href="https://www.gccs2015.com/" rel="nofollow">国际网络空间大会</a>上，与会的各国代表在交谈国际网络安全对策时，并无将网络监控放置于议事日程上。</p></p>
 <p>
 	<small>1天前</small>
 </p><h2>
-	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/421" target="paopao-mirror">网络漫游的消失</a>
+	<a href="https://d3ati7u646xlpu.cloudfront.net/article/421" target="paopao-mirror">网络漫游的消失</a>
 </h2>
-<p><p><strong>“内容封锁已经不足以解释大陆网络环境的退化。这是一个培养皿，培养一种封闭式的信息习惯：让用户安于一种更懒惰的交际和阅读方式，让用户逐渐成为自己习惯的奴隶。这是一种可怕的软性倒退。”</strong><br><br>上月底推特九年了，很多人写了纪念文章。我用推特六年，前三年在大陆，后三年在香港。自己的生活状态，也从国内本科成了即将赴美读博。经过一次次公共事件的冲刷，媒体环境的淘洗，加上热情的自然减退，推特中文用户群早就分崩离析，处于一种失焦和解体的状态。固有的政治和科技话题还在，但很多早期的用户都不再活跃，日常对话也变得凌乱破碎。<br><br>然而，尽管不再仰赖于“推友”这样一个身份标签，也不再和中文圈有密切的互动，我每天八成以上的信息资源，还是来自于推特。整理的政见微博素材，大部分也是通过刷推。我关注了英文媒体账号，独立杂志，中国海内外行动者，码农，中外研究者，和与自己大致同龄的学生群体。<br><br>去年有段时间，为了和周围大陆朋友步调一致，我强迫自己多用微信公众号获取信息，结果不到一周就崩溃了。<strong>这场自我试验的结果是，我越是使用墙内的平台，心理抑郁状态就越重。</strong><br><br>这绝不是一墙之隔的审查可以解释。我也曾经简单将墙内墙外的区别简单化约为信息封锁：<strong>由于审查，很多东西看不到，对于信息自由的渴望自然产生了焦灼。但这种界限式的划分却掩盖了一切反审查的努力，和真实的中国互联网生态。</strong>事实上，印象笔记，长图文，镜像站点，都可以是墙内免翻墙获取和传播信息的方式。墙内平台也远非质量低下，各类作者们贡献了丰富的原创内容。每天局限于朋友圈，用户依然可以接收到很多有价值的信息。<br><br>我花了很久才意识到，<strong>自由不仅在于内容，还在于信息架构。墙内很多平台最大的特点，是指向的循环和外链的消失。</strong>以朋友圈为例，大部分用户分享的内容都来自订阅号本身，最常见的一些外链，基本都是用于绕过审查的印象笔记。不仅平台没有外链，文章也没有，能够跳出初始窗口的办法，除了查看原文几乎只有关闭一招。<br><br>这是我从来无法通过朋友圈和公共号来获取信息的最重要原因，也是我和绝大多数人的根本分歧。<strong>在我看来，外链本身是重要的，我需要从一个页面跳转到另一个，需要一种不断自我获取，重整知识结构的体验。</strong>也就是说，<strong>自由来源于一种漫游的特征，它不在于“观看”，而在于“移动”</strong>。<br><br>对信息的批判不再应该局限于具体信息获取的有无，而在于漫游的可能性与自由度。波德莱尔所谓“居于世界中心，却又躲着这个世界”的漫游者数量，成为一种重要的自由量度工具：他们是否能够长存于网络空间，或者至少不被虚拟空间所排斥。<br><br><strong>内容封锁已经不足以解释大陆网络环境的退化。这是一个培养皿，培养一种封闭式的信息习惯：</strong>让用户安于一种更懒惰的交际和阅读方式，让用户逐渐成为自己习惯的奴隶。这是一种可怕的软性倒退。<br><br><a href="https://wam-pp1.azurewebsites.net/node/404" rel="nofollow">Github开始受到攻击的那天</a>，在推特上可以看到上百种对此事进行的分析和推测。而我的朋友圈里，当天除我外没有人讨论此事，到了第三天，才有人分享了一条与此相关的新闻。这不是内容质量的差异，而是话题的封闭，视线的停滞。<br><br>这不是一个向外出走的模式，而是一个向内扩张的算法。网络漫游的消失，伴随着的是信息威权主义帝国的崛起。这个系统正将自己打造成一个看上去应有尽有，连天空都是人造的巨型商场，饮食起居无所不包，你可以舒适地活在其中，甚至连每天通勤的费用都免了。踏出商场看一看城市和乡村，越发成为没有必要的活动。<br><br>信息威权以多元性上升的名义，来掩饰吸纳的加强。系统招募了最优秀的精英写手，付给他们高额的稿酬。即使是那些非营利的团队和个人，也在宏大的信息流中扇动轻薄的翅翼，与信息控制的大目标达成了共谋。<br><br>作为网络中立性的坚定推崇者，<strong>推特给我的感觉更像一个长不大的小社区，它的讨论很简单，言说质量参差不齐，如同随意的邻里搭讪。与不断扩张版图的其他社交网 站不同，它没有试图打造一个个超级大商场，而是致力于把系统复杂度稳定在最低水平。</strong>它从没有骄傲到要包办一切信息的加工和提供，所以多数情况下，你必须出走才可以满足日常所需。从一个学者的推荐文章开始，终止于一份研究报告；或者从一张图片开始，了解一个新闻热点的博客讨论。</p>
+<p><p><strong>“内容封锁已经不足以解释大陆网络环境的退化。这是一个培养皿，培养一种封闭式的信息习惯：让用户安于一种更懒惰的交际和阅读方式，让用户逐渐成为自己习惯的奴隶。这是一种可怕的软性倒退。”</strong><br><br>上月底推特九年了，很多人写了纪念文章。我用推特六年，前三年在大陆，后三年在香港。自己的生活状态，也从国内本科成了即将赴美读博。经过一次次公共事件的冲刷，媒体环境的淘洗，加上热情的自然减退，推特中文用户群早就分崩离析，处于一种失焦和解体的状态。固有的政治和科技话题还在，但很多早期的用户都不再活跃，日常对话也变得凌乱破碎。<br><br>然而，尽管不再仰赖于“推友”这样一个身份标签，也不再和中文圈有密切的互动，我每天八成以上的信息资源，还是来自于推特。整理的政见微博素材，大部分也是通过刷推。我关注了英文媒体账号，独立杂志，中国海内外行动者，码农，中外研究者，和与自己大致同龄的学生群体。<br><br>去年有段时间，为了和周围大陆朋友步调一致，我强迫自己多用微信公众号获取信息，结果不到一周就崩溃了。<strong>这场自我试验的结果是，我越是使用墙内的平台，心理抑郁状态就越重。</strong><br><br>这绝不是一墙之隔的审查可以解释。我也曾经简单将墙内墙外的区别简单化约为信息封锁：<strong>由于审查，很多东西看不到，对于信息自由的渴望自然产生了焦灼。但这种界限式的划分却掩盖了一切反审查的努力，和真实的中国互联网生态。</strong>事实上，印象笔记，长图文，镜像站点，都可以是墙内免翻墙获取和传播信息的方式。墙内平台也远非质量低下，各类作者们贡献了丰富的原创内容。每天局限于朋友圈，用户依然可以接收到很多有价值的信息。<br><br>我花了很久才意识到，<strong>自由不仅在于内容，还在于信息架构。墙内很多平台最大的特点，是指向的循环和外链的消失。</strong>以朋友圈为例，大部分用户分享的内容都来自订阅号本身，最常见的一些外链，基本都是用于绕过审查的印象笔记。不仅平台没有外链，文章也没有，能够跳出初始窗口的办法，除了查看原文几乎只有关闭一招。<br><br>这是我从来无法通过朋友圈和公共号来获取信息的最重要原因，也是我和绝大多数人的根本分歧。<strong>在我看来，外链本身是重要的，我需要从一个页面跳转到另一个，需要一种不断自我获取，重整知识结构的体验。</strong>也就是说，<strong>自由来源于一种漫游的特征，它不在于“观看”，而在于“移动”</strong>。<br><br>对信息的批判不再应该局限于具体信息获取的有无，而在于漫游的可能性与自由度。波德莱尔所谓“居于世界中心，却又躲着这个世界”的漫游者数量，成为一种重要的自由量度工具：他们是否能够长存于网络空间，或者至少不被虚拟空间所排斥。<br><br><strong>内容封锁已经不足以解释大陆网络环境的退化。这是一个培养皿，培养一种封闭式的信息习惯：</strong>让用户安于一种更懒惰的交际和阅读方式，让用户逐渐成为自己习惯的奴隶。这是一种可怕的软性倒退。<br><br><a href="https://d2tj697z1v6gzf.cloudfront.net/node/404" rel="nofollow">Github开始受到攻击的那天</a>，在推特上可以看到上百种对此事进行的分析和推测。而我的朋友圈里，当天除我外没有人讨论此事，到了第三天，才有人分享了一条与此相关的新闻。这不是内容质量的差异，而是话题的封闭，视线的停滞。<br><br>这不是一个向外出走的模式，而是一个向内扩张的算法。网络漫游的消失，伴随着的是信息威权主义帝国的崛起。这个系统正将自己打造成一个看上去应有尽有，连天空都是人造的巨型商场，饮食起居无所不包，你可以舒适地活在其中，甚至连每天通勤的费用都免了。踏出商场看一看城市和乡村，越发成为没有必要的活动。<br><br>信息威权以多元性上升的名义，来掩饰吸纳的加强。系统招募了最优秀的精英写手，付给他们高额的稿酬。即使是那些非营利的团队和个人，也在宏大的信息流中扇动轻薄的翅翼，与信息控制的大目标达成了共谋。<br><br>作为网络中立性的坚定推崇者，<strong>推特给我的感觉更像一个长不大的小社区，它的讨论很简单，言说质量参差不齐，如同随意的邻里搭讪。与不断扩张版图的其他社交网 站不同，它没有试图打造一个个超级大商场，而是致力于把系统复杂度稳定在最低水平。</strong>它从没有骄傲到要包办一切信息的加工和提供，所以多数情况下，你必须出走才可以满足日常所需。从一个学者的推荐文章开始，终止于一份研究报告；或者从一张图片开始，了解一个新闻热点的博客讨论。</p>
 <p>把推特与周遭信息环境剥离，与其他平台进行比较从一开始就不公平。我所说的推特，不只是这个平台本身的内容，特性和审美，更多是以它为起点，所能够漫游到的一切地方。<strong>某种程度上，它成了网络空间中的“非地方”，是个用于短暂停留，切换，再出发的枢纽，而其本身并不具有地方感的意义。</strong></p>
 <p>认同廉价，建筑易朽，我希望自己不安于那个提供庇护的大商场。在无指向的漫游中，继续酝酿我的焦躁，激进和强迫症。<br><br><em>本文经授权转载自<a href="http://gravitysworm.com/post/115358769142" rel="nofollow">作者博客</a></em></p></p>
 <p>
 	<small>2天前</small>
 </p><h2>
-	<a href="https://d3ati7u646xlpu.cloudfront.net/article/420" target="paopao-mirror">网络时代的群众斗群众</a>
+	<a href="https://d1pt9ebcelspr6.cloudfront.net/article/420" target="paopao-mirror">网络时代的群众斗群众</a>
 </h2>
 <p><p><span>给你一个毫无隐私的网络，在网监的眼皮底下聊天、只能看到习大大语录和中国梦宣传，搞不清身边究竟哪个“好友”或粉丝会一秒钟变“举报人”，草木皆兵，吐个槽都有被举报的危险……这样的网络哪怕价钱再低，就算免费，又有多少人会喜欢？</span></p>
 <h3><span>五毛表彰大会</span></h3>
@@ -75,7 +75,7 @@
 <p>
 	<small>5天前</small>
 </p><h2>
-	<a href="https://wam-pp.azurewebsites.net/article/419" target="paopao-mirror">全球首个虚拟游行 示威者誓将“重回街头”</a>
+	<a href="https://d1pt9ebcelspr6.cloudfront.net/article/419" target="paopao-mirror">全球首个虚拟游行 示威者誓将“重回街头”</a>
 </h2>
 <p><p><strong>上周日晚，两千多名抗议人士的虚拟动态全息图，被投射在马德里的议会大楼前，抗议西班牙一项禁止公民游行集会的新法律。这是全球第一个“虚拟游行示威”。但组织方表示，这也将是他们的最后一次虚拟游行，之后他们一定会回到街头游行。</strong><br><br>西班牙民运组织No Somos Delitos（“我们不是罪”）在3周前开设了一个<a href="http://www.hologramasporlalibertad.org/en.html#gallery" rel="nofollow">“全息图为自由”的网站</a>，让全球各地的人士将自己的视频和抗议信息传到网站上。一家匿名的广告制作公司帮助他们将这些转化为游行的全息图。示威现场，可看到全息图的示威人群高喊口号，高举标语。</p>
 <p>为了避免政府阻挠这次虚拟示威，组织方直到示威开始前不久，才在社交媒体上宣布虚拟示威的地点。但这次示威采取全息图的方式，其实是被西班牙政府逼迫的。</p>
@@ -91,11 +91,11 @@
 <p>
 	<small>6天前</small>
 </p><h2>
-	<a href="https://d3ati7u646xlpu.cloudfront.net/article/418" target="paopao-mirror">网民如何防范中国网络“大炮”</a>
+	<a href="https://wam-pp1.azurewebsites.net/article/418" target="paopao-mirror">网民如何防范中国网络“大炮”</a>
 </h2>
 <p><p><strong>（泡泡报道）</strong> 日前，一份最新的分析报告显示，中国于3月中下旬发动的网络攻击，使用了一种不同于防火墙的新武器，不仅被用于进行网络攻击，还可用于监控，能力强大，被研究人员称为“大炮”（Great Cannon）。“大炮”使得中国政府操控网络的能力跻身全球三甲。泡泡的技术专家强调，要避免“大炮”类的网络攻击，加密是关键。</p>
 <h2><strong>“大炮”攻击力强大</strong></h2>
-<p>由加拿大多伦多大学<a href="https://d2tj697z1v6gzf.cloudfront.net/node/342" rel="nofollow">公民实验室</a>、美国加州大学伯克利分校、与普林斯顿大学等机构共同研究分析的一份<a href="https://citizenlab.org/2015/04/chinas-great-cannon/" rel="nofollow">报告指出</a>，“大炮”不是防火墙的衍生，该系统能绑架国际网络，注入恶意代码，并按照攻击者意图，实施网络攻击。</p>
+<p>由加拿大多伦多大学<a href="https://wam-pp.azurewebsites.net/node/342" rel="nofollow">公民实验室</a>、美国加州大学伯克利分校、与普林斯顿大学等机构共同研究分析的一份<a href="https://citizenlab.org/2015/04/chinas-great-cannon/" rel="nofollow">报告指出</a>，“大炮”不是防火墙的衍生，该系统能绑架国际网络，注入恶意代码，并按照攻击者意图，实施网络攻击。</p>
 <blockquote><p><em>“大炮”是一个路内系统（in-path system</em><em>，GFW</em><em>是旁路系统），不仅仅能注入流量，而且能直接压制流量。它不主动检查所有的链路流量，而只是拦截一组目标地址的流量，可能是通过减</em><em>少 </em><em>数据流让系统能及时处理。它只检查个别的数据包去判断是否采取行动，避免TCP</em><em>字节流重组装的计算开销</em><em>。（来源：</em><em><a href="http://www.solidot.org/story?sid=43664" rel="nofollow">Solidot</a>）</em></p>
 </blockquote>
 <p>“大炮”能使全球的网络用户都成为潜在的攻击者。这一研究符合了此前其他报告对Github和GreatFire遭受网络攻击的分析。从3月中旬开始，中国最大的搜索引擎百度的网站流量及广告流量都被利用，从海外访问百度以及插入了百度广告以及百度统计的中国网站，就会被拦截并操纵以冲击GitHub和GreatFire，前者是一个广受程序员欢迎的网站，后者是一家非营利性组织，运营着被中国屏蔽网站的镜像。研究人员表示，这样的攻击只能发生在中国互联网的骨干网上，意味着中国政府对此事负有责任。</p>
@@ -105,7 +105,7 @@
 <p>“大炮”还具有监控功能，只要用户连接到不加密的中国服务器上（如，中国的网站、或使用百度广告的海外网站等），“大炮”就能直接将监控软件下载到用户的电脑上。目前，已知的仅有美国和英国政府具有如此操控未加密网络的能力。</p>
 <h2><strong>如何防止“被炮”</strong></h2>
 <p>如果用户上的网站是http://，就意味着该网站未加密，“大炮”攻击（以及美国的监控）就是基于未加密（明文信息）传输，因此泡泡的技术专家提加密是关键。以下是为网民提出几项建议，尽可能减少“被炮”的可能性：</p>
-<ul><li>加密：使用加密网站（HTTPS），加密的电邮服务、加密聊天软件（如Cryptocat、ChatSecure）、加密通话软件（如<a href="https://d1rnppgpv4u79x.cloudfront.net/node/146" rel="nofollow">Signal</a>、RedPhone）等线上服务；</li>
+<ul><li>加密：使用加密网站（HTTPS），加密的电邮服务、加密聊天软件（如Cryptocat、ChatSecure）、加密通话软件（如<a href="https://wam-pp.azurewebsites.net/node/146" rel="nofollow">Signal</a>、RedPhone）等线上服务；</li>
 <li>及时更新软件：用最新的操作系统（还在用XP看这篇文章的朋友们），更新浏览器（最新的Chrome和Firefox 取消了CNNIC的认证），更新杀毒软件；</li>
 <li>用网络处理敏感事务的用户，可以关闭浏览器中的Javascript 。</li>
 </ul><p>“但普通用户在这方面能做的十分有限。”泡泡的安全专家说，“最重要的是，网络公司要启用https加密网站。”Mozilla的两位网络安全工程师日前发起“抛弃HTTP计划”，呼吁全面转移到加密的HTTPS。他们表示明文传输信息的时代已经结束，新一代的网络需要使用加密的HTTPS。谷歌也在其搜索结果中给予启用HTTPS的网站优先位置。</p>
@@ -172,7 +172,7 @@
 <p>
 	<small>11天前</small>
 </p><h2>
-	<a href="https://d3ati7u646xlpu.cloudfront.net/article/415" target="paopao-mirror">香港通讯监察法案惹争议</a>
+	<a href="https://wam-pp1.azurewebsites.net/article/415" target="paopao-mirror">香港通讯监察法案惹争议</a>
 </h2>
 <p><p>文/余依庭</p>
 <p>香港立法会今日就《截取通讯及监察条例》（下称《条例》）的修订进行审议，多位泛民主派议员质疑条例未有清楚列明可截取的通讯是否包含网络通讯如社交媒体及即时通讯软件。民主党刘慧卿强调《条例》必须更清楚列明监察范围，免惹公众揣测。保安局署理副秘书长伍江美妮无正面回应，只多次引用前任及现任专员的说话，及重复表示“必须合乎《条例》的规定”，态度含糊。<br><br>2006年，梁国雄及古思尧就政府当局以签发行政命令授权的方式截取市民通讯提出司法复核，并获判胜诉。政府迅即提出订立《截取通讯及监察条例》，当时泛民主派批评《条例》草率，并在立法会提出逾200项修订，建制派全数否决后集体离场抗议，《条例》最终通过生效。《条例》本是用作监察执法机关（ 即海关、香港警务处、入境事务处和廉政公署）的截取通讯（如监听、勾线等）及指明类别的秘密监察行动。（题图为泛民主派2006年审议《条例》时集体离场抗议的场景）<br><br>近年坊间质疑当局在执行监察行动时，是否在侦测严重罪行和保障公共安全之外，同时对市民的隐私及权利有足够保障。近年网络通讯兴起，不单是社运人士、政党、非政府组织者、记者还是律师，均以网络通讯作主要的联络媒介，网络通讯是否属《条例》监管范围成疑。截取通讯及监察事务专员胡国兴大法官，在任内亦不断批评《条例》的不足，至2013年6月，政府就修订《条例》进行咨询，然延至今年才将《条例》提交立法会。<br><br>然而，政府提交的修订建议属小修小补，未有解答坊间众多疑虑。截取通讯及监察事务专员邵德炜在去年周年报告的记者会上，也未有正面回应《条例》监察的范围有否包括网际通讯（如电邮、Google Hangout、Whatsapp、Telegram等），顿时惹起公众揣测。<br><br>在今日会议上，当局仍未能回应，民主党的刘慧卿引用独立媒体（香港）声明，一再追问保安局可截取的通讯范围是否包含网络通讯。保安局署理副秘书长伍江美妮的回应态度含煳，只多次以「必须合乎《条例》的规定」作回应。律政司高级助理法律政策专员简嘉辉则避过「网络通讯」一词，只以「社交媒体」作回应的重点。简嘉辉指《条例》列明，受监管的截取只限邮政服务及电讯系统；有关「电讯系统」包含的具体范围，当中并无指明任何媒介，亦无法案可供参考。刘慧卿则强调《条例》必须更清楚列明监察范围，免惹公众揣测。<br><br><strong>抽取式储存媒体未获保障</strong><br><br>《条例》现仍未为抽取式储存媒体（USB、储存卡等），订立如其他监察器材的提取与交还程序；即抽取式储存媒体即使被换掉、取出也无从知悉，遑论监察。就此，截取通讯及监察专员的2013年报虽表示“已采用防窜改标贴”、“将抽取式储存媒体封存在器材内”，并研发了抽取式储存媒体的原型，然而该些规定并无包括在目前的《条例》内。<br><br>资讯科技界莫乃光促请政府就此作回应；并表示《条例》监管不力，对网络供应商向执法机关提供及移除个人资料方面，毫无明确守则，“睁只眼闭制眼”。莫乃光促请政府儘快就此对《条例》作出修订，明确让网络供应商有法可依。保安局指会密切跟进。<br><br><strong>建制派质疑监察过多</strong><br><br>民建联陈鑑林、钟树根及谢伟铨等建制派议员普遍质疑获授权监察人员的审核安排，恐专员滥权。伍江美妮表示审核过程严谨，获授权的监督人员须通过严品格审查，专员如违规将同受纪律处分；未会构成滥权的情况。<br><br>立法会将于5月2日进行公听会，让公众可就此表达意见，截止日期为4月23日。</p>
@@ -197,33 +197,33 @@
 <p>
 	<small>12天前</small>
 </p><h2>
-	<a href="https://d1pt9ebcelspr6.cloudfront.net/article/413" target="paopao-mirror">变态辣椒漫画：关于PX的方程式</a>
+	<a href="https://wam-pp.azurewebsites.net/article/413" target="paopao-mirror">变态辣椒漫画：关于PX的方程式</a>
 </h2>
-<p><p><strong>（泡泡特约创作）</strong> 漳州PX工厂4月6日爆炸事故，再次引发网友有关PX工厂是否安全的讨论。虽然国家媒体不断表示，PX是低毒安全的，但<a href="http://mn.sina.com.cn/news/s/2015-04-08/detail-iavxeafs4819184.shtml" rel="nofollow">据《东南早报》报道</a>，工厂附近居民正纷纷撤离，当地养殖的上万条海马，一夜之间忽然漂浮水面，部分死亡。2013年7月30日，该工厂已发生过一次爆炸。<br><br>中国著名时政漫画家<a href="https://d2tj697z1v6gzf.cloudfront.net/node/234" rel="nofollow">变态辣椒</a>为泡泡创作了一幅《关于PX的方程式》：</p>
+<p><p><strong>（泡泡特约创作）</strong> 漳州PX工厂4月6日爆炸事故，再次引发网友有关PX工厂是否安全的讨论。虽然国家媒体不断表示，PX是低毒安全的，但<a href="http://mn.sina.com.cn/news/s/2015-04-08/detail-iavxeafs4819184.shtml" rel="nofollow">据《东南早报》报道</a>，工厂附近居民正纷纷撤离，当地养殖的上万条海马，一夜之间忽然漂浮水面，部分死亡。2013年7月30日，该工厂已发生过一次爆炸。<br><br>中国著名时政漫画家<a href="https://wam-pp.azurewebsites.net/node/234" rel="nofollow">变态辣椒</a>为泡泡创作了一幅《关于PX的方程式》：</p>
 <blockquote><p>从厦门PX事件的时候到现在这样的争论没有停止过，很多化工专业背景的网友坚持说PX是低毒安全的，并且拿世界上很多先进国家举例，但是我想他们可能故意忽略了一个重要的因素，基于这点创意我画了这篇作品。</p>
 </blockquote>
 <p></p><div><img height="650" width="859" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/adaptive_image/adaptive-image/public/px_0.jpg?itok=2IBF7XnX" alt="" title=""><div><div><div><a href="https://d1pt9ebcelspr6.cloudfront.net/">关于PX的方程式（图：变态辣椒/泡泡）</a></div></div></div></div>
 <p><br>网评人<a href="http://www.weibo.com/1477045392/Cc4TXCgE6?type=comment" rel="nofollow">五岳散人在微博上</a>说：“PX从理论上我相信是安全的，但出问题的往往不是技术，而是在谁的地盘、谁在管理。”<br><br>一位中国的石化安全管理专家在匿名接受<a href="http://finance.sina.com.cn/zl/energy/20150408/110321907169.shtml" rel="nofollow">《新浪财经》采访</a>时指出：</p>
 <blockquote><p><strong>中国安监管理人员现在需要一个从“无毒”到“无害”的观念转变。</strong>“无毒”是站在政府、企业和科普专家的角度看的，你可以指出PX毒性非常小，不会对居民健康有大的影响。但<span>老百姓</span>真正关心的是“无害”，这是站在居民角度讲的。比如火锅是美食，本身肯定无毒，但是火锅店爆炸也可能死人，所以对附近居民就不能说“无害”。</p>
 </blockquote>
-<p>更多<a href="https://wam-pp.azurewebsites.net/tags/215" rel="nofollow">变态辣椒作品</a></p></p>
+<p>更多<a href="https://d2tj697z1v6gzf.cloudfront.net/tags/215" rel="nofollow">变态辣椒作品</a></p></p>
 <p>
 	<small>13天前</small>
 </p><h2>
-	<a href="https://d2tj697z1v6gzf.cloudfront.net/article/411" target="paopao-mirror">台湾新闻网站无一幸免中国防火墙</a>
+	<a href="https://d1pt9ebcelspr6.cloudfront.net/article/411" target="paopao-mirror">台湾新闻网站无一幸免中国防火墙</a>
 </h2>
 <p><p><br><a href="http://p.udn.com.tw/upf/newmedia/2015_data/20150327_udnfirewall/udnfirewall/index.html" rel="nofollow">台湾《联合报》为测试中国“防火长城”对台湾传媒的限制情况</a>，由今年1月12日起开始，花了85天时间，每天测试及记录16个台湾传媒在中国大陆境内的网页被封锁情况，结果发现没有任何一个台湾传媒可以全部“正常连线”，大多是“完全封锁”或“部分封锁”；再从“严格控管”或“部分宽松”的差别分析，更发现是跟传媒政治取态基本上挂钩，即愈亲中的传媒，其内容被封锁的比例明显较少。<br><br>自中国国家主席习近平上台后，对传媒及言论等的控制明显更为紧缩，同时进一步扩大互联网的操控。今天《苹果日报》就以头版报道，内地正组建逾1000万人的“青年网络文明志愿者”队伍，就连中大及浸大在内地的分校都要“交人”。台湾《联合报》今日（4月7日）亦以专题报道，“纯就检测资料纪录，一窥两岸此刻频繁来往的时空环境下，网路新闻的交流情况”。<br><br>16个台湾传媒及被封锁的情况，分别如下：Yahoo奇摩新闻（100%）、中央社（99%）、新头壳（99%）、自由时报（95%）、苹果日报（92%）、台湾壹週刊（92%）、TVBS（91%）、风传媒（87%）、联合新闻网（67%）、关键评论网（19%）、东森新闻云（1%）、中时电子报（0%）、商业周刊（0%）、Nownews（0%）、三立新闻网（0%）及公视新闻议题中心（无法确定）。</p>
 <p><img height="712" width="992" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/adaptive_image/adaptive-image/public/2015-04-07_134330.png?itok=S1FZEdZw" alt="" title=""><br><br>该专题是利用GreatFire.org网路工具，在输入网址后，最多有8个伺服器测试是否能正常开启网页；《联合报》的分析认为，基本上没有一个媒体的检测可全部“正常连线”，多是“完全封锁”或“部分封锁”，但从两项变数，已可看出严格管制与部分宽鬆的些微差别。以台湾四大报纸的网站来分析，《自由时报》、《台苹》都有逾九成内容被封锁，而《联合报》就有约67%，立场亲中的《中国时报》则相对宽松。<br><br>至于新兴网路媒体方面，《新头壳》有九成九被封、《风传媒》亦有近九成遭封杀，而《关键评论网》则相对宽松。另历史悠久的通讯社中央社，原来也有99%内容遭封锁。<br><br>事实上，就算如东森新闻云等，虽然只有1%被封锁，各中原因亦是因为单一新闻网站首页每天新闻量极大，轮播或转换速度十分频繁，故无法就任何单一时段、单一页面的内容与“封锁”进行因果推论。而在3月份，该网站就只有6天能在内地正常连线。<br><br><em><a href="http://www.post852.com/%E5%8F%B0%E5%AA%92%E6%B8%AC%E8%A9%A6%E4%B8%AD%E5%9C%8B%E9%98%B2%E7%81%AB%E9%95%B7%E5%9F%8E-%E5%8F%8D%E5%85%B1%E5%AA%92%E9%AB%94%E7%B6%B2%E7%AB%99%E4%B9%9D%E6%88%90%E5%85%A7%E5%AE%B9%E8%A2%AB%E5%B0%81/" rel="nofollow">本文转载自852邮报</a></em><br><br>相关阅读：</p>
-<p><a href="https://d3ati7u646xlpu.cloudfront.net/node/288" rel="nofollow"><em>两岸新闻（不）交流：陆委会呼吁中国放宽台湾新闻管制的弦外之音</em></a></p></p>
+<p><a href="https://wam-pp1.azurewebsites.net/node/288" rel="nofollow"><em>两岸新闻（不）交流：陆委会呼吁中国放宽台湾新闻管制的弦外之音</em></a></p></p>
 <p>
 	<small>14天前</small>
 </p><h2>
-	<a href="https://d2tj697z1v6gzf.cloudfront.net/article/412" target="paopao-mirror">围猎毕福剑：社交媒体上的“毛派”癫痫症</a>
+	<a href="https://d1pt9ebcelspr6.cloudfront.net/article/412" target="paopao-mirror">围猎毕福剑：社交媒体上的“毛派”癫痫症</a>
 </h2>
 <p><p><strong>(泡泡特约撰稿）</strong> 央视主持人毕福剑最近卷入到麻烦当中。他在私人饭桌上以<a href="http://www.ntdtv.com/xtr/gb/2015/04/07/a1189271.html" rel="nofollow">调侃</a>的腔调唱了样板戏《智取威虎山》片段，顺带着嘲讽了“人民军队”、“毛泽东”这些“伟光正”的形象。同桌吃饭的“毛粉”录下了视频，放在微博上公开，激起毛派围攻，要求惩办毕福剑。8日中午，又有消息<a href="http://news.sina.com.cn/c/2015-04-08/134831693288.shtml" rel="nofollow">爆出</a>，由于毕福剑的视频风波“严重影响了央视的公众形象”，央视高层决定停播四天毕福剑在央视主持的所有节目。<br><br>在中国大陆的社交媒体上，公开调侃甚至咒骂毛泽东的人大有人在。从某种意义上讲，这种对毛氏的公开贬低与羞辱，并不会带来灾难性后果。然而，在特定的政治气候下，情况会有变化；由知名人物讲出来，也会带来不测。毕福剑就是属于后者。<br><br>毕福剑是央视除去新闻联播之外、列第二方阵的主持人，并不算特别突出。他主持制作的节目叫《星光大道》，是一档面向底层青年宣扬唱歌成功学、推介一夜成明星的娱乐节目。他因为岁数大，主持风格上故意装疯卖傻，被网友形容为“老眼浑浊”的人。</p>
 <h2><strong>微博上的对立狂潮</strong></h2>
 <p>毕福剑的视频流出在微博上后，舆论的反响是两个对立的情绪。一是社交媒体上的毛派人士对他展开了疯狂的进攻，上纲上线，不断制造负面评价，向上讨要“杀威棒”，要除之而后快；二是毛派的“敌人们”，则列举毛泽东的罪行，为毕福剑开脱辩护，对冲毛派疯狂。</p>
-<div><div><img height="264" width="329" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/large/public/1-15040f9504dx.jpg?itok=4EKWLt1-" alt="" title=""><div><div><div><a href="https://d1rnppgpv4u79x.cloudfront.net/">毕福剑在私人饭桌上以调侃的腔调唱了样板戏《智取威虎山》片段，顺带着嘲讽了“人民军队”、“毛泽东”这些“伟光正”的形象。</a></div></div></div></div><br> </div>
+<div><div><img height="264" width="329" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/large/public/1-15040f9504dx.jpg?itok=4EKWLt1-" alt="" title=""><div><div><div><a href="https://wam-pp1.azurewebsites.net/">毕福剑在私人饭桌上以调侃的腔调唱了样板戏《智取威虎山》片段，顺带着嘲讽了“人民军队”、“毛泽东”这些“伟光正”的形象。</a></div></div></div></div><br> </div>
 <div>为毕福剑辩护的人，很多在平常里并不喜欢他，认为他不过是央视这个国家级宣传机构的宣传员。他们之所以为毕福剑帮腔，更主要是因为在对待毛泽东的历史评价上持有否定立场。因此，发生在社交媒体上的这一波狂潮，是“去毛化”之争。<br><br><strong>社交媒体的便利，将原本存在于大陆私人领域的对毛泽东的看法暴露在众人面前，也让相关的争论发生得更为猛烈。</strong>而在薄熙来“重庆模式”前后，因为拥护毛泽东的人认为有了政治基础，所以更巧妙地利用高层政治上的暧昧态度，捍卫毛泽东的神位。<br><br>在大陆的民间心理上，除去崇拜毛泽东的人群，也存在着另一极，那就是拥立胡耀邦，崇尚他的改良与开明左派，引为政治理想的代表。<strong>毕福剑看似只是落入了私人宴请的“狙击”，实际上卷入的社交媒体狂插，不过是大陆至今没有平息的、针对共产党毛泽东的左右对立的历史评价。</strong></div>
 <div> </div>
 <h2><strong>政治培植的毛派分歧</strong></h2>
@@ -233,7 +233,7 @@
 <p>
 	<small>14天前</small>
 </p><h2>
-	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/410" target="paopao-mirror">新翻墙七种武器之孔雀翎：FreeBrowser自由浏览器</a>
+	<a href="https://wam-pp.azurewebsites.net/article/410" target="paopao-mirror">新翻墙七种武器之孔雀翎：FreeBrowser自由浏览器</a>
 </h2>
 <p><p><strong>（泡泡测评） </strong>我们曾经介绍过一款很受好评的Android移动端翻墙软件Fqrouter（<a href="https://d3ati7u646xlpu.cloudfront.net/article/58" rel="nofollow">详见七种武器之孔雀翎：FQroute</a>r），相对于其他移动端翻墙工具而言，它具备免费，简单易用等突出特点，但由于近来GFW封锁的手段日益严峻，Fqrouter的个人作者也力有不逮，于2014年12月份关闭了整个项目，宣布不再继续进行维护。</p>
 <p>虽然刚刚不久Fqrouter又发布了更新，但用户依然担心什么时候它突然寿终正寝，而且最近用户反映 Fqrouter服务并不稳定，那么有没有一款替代者产品可供并不具备丰富经验的初级用户免费使用呢？</p>
@@ -252,7 +252,7 @@
 <p>
 	<small>15天前</small>
 </p><h2>
-	<a href="https://d1pt9ebcelspr6.cloudfront.net/article/409" target="paopao-mirror">占领大学！从荷兰到全球，网络时代掀起高校民主化风潮</a>
+	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/409" target="paopao-mirror">占领大学！从荷兰到全球，网络时代掀起高校民主化风潮</a>
 </h2>
 <p><p><strong>(泡泡特约报道） 大学精神是什么？荷兰阿姆斯特丹大学正在进行的一场抗争运动，在商业至上的社会里，对这个问题作出了重新的思考。借助网络，这场名为“新大学”的运动已经在全球联动，引发了英国、加拿大、美国等国大学的响应。</strong></p>
 <p>这火焰能够烧得如此勐烈、如此迅速，当然得要感谢自由的网络连结，以及能够迅速传递讯息的<a href="https://www.facebook.com/pages/De-Nieuwe-Universiteit-voor-een-democratische-universiteit/364554890370545" rel="nofollow">脸书</a>与<a href="https://www.youtube.com/channel/UCdELa2AGMIJf8eQCw7DtCDg" rel="nofollow">Youtube</a>等网路社群网站。除了专属网页，抗议学生在脸书上的页面提供最及时的资讯，包括每天的活动时间表，转贴媒体的报道，分享世界各地对相关问题的讨论，除了可以提供一个整合的讯息窗口，吸引有志者前来参加，也从这样的经验中不断重新修正、重塑自己的行动守则，寻找新的共同基础。</p>
@@ -261,7 +261,7 @@
 </blockquote>
 <p>坐在阿姆斯特丹大学学生占领行动询问台后，一头蓬乱卷发的女学生Harriet说。她的声音里有超龄的坚强与镇定，也有浓浓的疲惫。经过几个月的抗争，学生的精力已到了极限，而且就像Harriet，许多参与者也确定将为此付出延后一年毕业的代价。</p>
 <h2><strong>人文科系首当其冲</strong></h2>
-<div><div><img height="480" width="361" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/large/public/occupyuva_004.jpg?itok=Xkxnp-IV" alt="" title=""><div><div><div><a href="https://d2tj697z1v6gzf.cloudfront.net/">Harriet就读的人文学院首当其冲，面对部分学科遭关闭、其他学科整合为人文学程的威胁，对她来说更有切身之痛，而目睹自己的同学、老师在驱除行动中遭受的暴力对待，更改变了她对社会、对整个国家体制的看法。（摄影：Agnes Poe）</a></div></div></div></div></div>
+<div><div><img height="480" width="361" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/large/public/occupyuva_004.jpg?itok=Xkxnp-IV" alt="" title=""><div><div><div><a href="https://wam-pp.azurewebsites.net/">Harriet就读的人文学院首当其冲，面对部分学科遭关闭、其他学科整合为人文学程的威胁，对她来说更有切身之痛，而目睹自己的同学、老师在驱除行动中遭受的暴力对待，更改变了她对社会、对整个国家体制的看法。（摄影：Agnes Poe）</a></div></div></div></div></div>
 <p>就读哲学系的Harriet 是最早加入学潮的学生之一。2月13日一群不满学校敷衍专横态度的阿姆斯特丹大学（University of Amsterdam）人文学院学生发起“人文游行”（Humanities Rally），出乎大多数参与学生意料之外，游行突然变成了占领阿姆斯特丹大学城中建物之一Bungehuis。这一切的出发点，是去年11月曝光的一份名为“Profiel 2016”的秘密文件，文件中校方计划废除阿拉伯语与希伯来语等语言系所，并将剩下来的哲学、荷兰文学、历史与英语科系将会被合并为一个定义宽广的“人文”学位（Liberal Arts）。</p>
 <p>学校管理单位的算盘是，此举可以精简人事、节省空间，同时也可以简化课程，让学生“更容易毕业”，这样学校可尽快拿到政府提供的毕业生基金。那教学与学习品质呢？嗯，就说过了这不是首要之务啊。这些新科系毕业的学生将不再有能力精于任何专业，学到的只是一个粗泛的概论，这样的学生不管是想要继续深造、还是到职场上就业，恐怕都将面临重重困难。但管理阶层显然认为这不是他们的问题，并一再强调学校面临庞大的债务危机，不得不想办法开源节流。<a href="http://www.wsj.com/articles/federal-education-officials-release-list-of-monitored-colleges-1427774401" rel="nofollow">美国教育部最新公布的全球高校财务黑名单</a>上，阿姆斯特丹大学板上有名。</p>
 <h2><strong>重新占领</strong></h2>
@@ -275,7 +275,7 @@
 <p>也许是有这个信念加持，现场的气氛颇为平和轻松，门口的几位警卫坐着聊天打屁，柜台旁贴满了学生的标语，“有时候海报掉了警卫还会来跟我们借胶带去帮忙贴好呢！” 。24小时的警卫留守对学生也有好处，毕竟Maagdenhuis做为运动场合一直保持开放状态，有时候半夜有醉汉跑进来闹事，也有态度太过咄咄逼人的媒体骚扰学生，被警卫撵出去。</p>
 <p>然而这种看似平静的氛围底下仍是暗潮汹涌，只要一天校方、抗议学生与其他相关团体（比如说教职员的组织ReThink UvA、学生会与工会等团体）无法达成协议，持续占领Maagdenhuis就是他们最重要的筹码。Eli表示，现在在Maagdenhuis还是随时不分日夜保持30、40个人力，“随时要有人醒着，”他略带疲惫地说。</p>
 <p>在Maagdenhuis里，大多数都是像Eli与Harriet这样轮班来帮忙的学生，也有近20名每天都在这里过夜、坚守岗位的中坚份子。但这些人算不算是运动的核心人物？是谁决定参加与校方对话的学生代表？有没有所谓的领导阶层？在场的学生摇摇头，“每天我们都会开集体会议， 任何有兴趣的人都可以参加提供建议，在这样的会议里，大家就会一起决定谁可以代表参加这些正式的交涉。但事实上不是很多人愿意做这种事，因为真的挺无聊的，”这个不愿透露姓名的大男孩笑了笑。</p>
-<div><div><img height="480" width="334" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/large/public/occupyuva_003_0.jpg?itok=h_wta1HF" alt="" title=""><div><div><div><a href="https://d1rnppgpv4u79x.cloudfront.net/">Eli曾经参与Bungehuis的佔领活动，虽然强制驱离当天他并不在屋内，但他已经与学潮共同奋战了近两个月的时间，疲惫写在他的眼角，也确定了因为缺课太多，上个学程的课程必须在明年重修，但他仍认为这是值得的。（摄影：Agnes Poe）</a></div></div></div></div></div>
+<div><div><img height="480" width="334" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/large/public/occupyuva_003_0.jpg?itok=h_wta1HF" alt="" title=""><div><div><div><a href="https://d1pt9ebcelspr6.cloudfront.net/">Eli曾经参与Bungehuis的佔领活动，虽然强制驱离当天他并不在屋内，但他已经与学潮共同奋战了近两个月的时间，疲惫写在他的眼角，也确定了因为缺课太多，上个学程的课程必须在明年重修，但他仍认为这是值得的。（摄影：Agnes Poe）</a></div></div></div></div></div>
 <p>在记者拜访当晚的会议里，不论是老师还是学生，全都在餐厅里围坐一圈，跟随着严谨的议事流程讨论整体行动的大小事，从晚上太多闲杂人等进进出出扰人清梦，到隔天将发起的新串连活动、接下来的行动方针，什么都可以拿出讨论。也是在这里，参与正式会谈的代表报告会谈的最新进度，一脸疲惫的教授摸着胡渣说：“我知道大家都急着想知道结果，谈判的确有进展，但既然大家都要白纸黑字的协定，就免不了要字斟字酌，因此速度非常缓慢。”</p>
 <h2><strong>校园民主化与反商业主义</strong></h2>
 <p>当初提出的六大诉求，当然不可能全部获得实现，尤其是在后期浮出台面加入会谈的团体越来越多，因为大家都有自己的考量，要获得共识自然更加困难。目前确定下来的是成立两个独立的委员会，一个将对学校的财务状态做整体性的检讨，另一个则将研究校园民主化的可能性。此外，争议极大的“Profiel 2016”也暂时被冻结。这算是个令人满意的结果吗？“至少是一个校方展现诚意的动作，先争取校园的民主，我们就可以对抗大学的商业化”，Eli说。来自人文学科的Harriet的立场则比较强硬：“除非看到校方愿意接受我们 ‘人文学科’ 反对废系、合并的意见，我是绝对不会停止抗争的。”</p>
@@ -288,11 +288,11 @@
 <p>
 	<small>18天前</small>
 </p><h2>
-	<a href="https://d3ati7u646xlpu.cloudfront.net/article/407" target="paopao-mirror">谷歌宣布全线吊销CNNIC根证书</a>
+	<a href="https://d1pt9ebcelspr6.cloudfront.net/article/407" target="paopao-mirror">谷歌宣布全线吊销CNNIC根证书</a>
 </h2>
 <p><p>更新：2015年4月3日</p>
 <p>既谷歌宣布吊销CNNIC安全证书之后，火狐浏览器背后的公司<em><a href="https://blog.mozilla.org/security/2015/04/02/distrusting-new-cnnic-certificates/" target="_blank" rel="nofollow">Mozilla官方博客</a>宣布将“不再信任”CNNIC证书：4月1日前颁发的证书仍然可被Firefox信任，同时要求CNNIC提供一份4月1日前颁发的，未过期的证书并将其公开。如果互联网上出现了其他CNNIC在4月1日前颁发的证书，采取进一步行动制裁。"</em></p>
-<hr><p>谷歌在其安全博客上发布<a href="http://googleonlinesecurity.blogspot.com/2015/03/maintaining-digital-certificate-security.html" target="_blank" rel="nofollow">声明</a>，经过谷歌对CNNIC证书事件的调查，谷歌将会在旗下所有产品里删除对CNNIC证书的信任，在过渡期内，现有的CNNIC用户将以白名单方式继续使用CNNIC证书一段时间。<br><br>早先，<a href="https://d2tj697z1v6gzf.cloudfront.net/node/403" rel="nofollow">埃及的证书机构MCS集团发布了针对谷歌域名的假证书，而这些证书都是由CNNIC颁发的</a>，据信这些假证书可能被用于中间人代理，拦截用户和目标网站的加密信息。<br><br>谷歌表示，如果CNNIC实施技术及流程改进杜绝此前发生的证书伪造事件，可以重新申请加入。现有CNNIC证书客户将暂时以白名单形式继续支持一段时间作为过渡。<br><br>在谷歌宣布旗下产品删除CNNIC根证书之后，CNNIC<a href="http://www.cnnic.net.cn/gywm/xwzx/xwzxtzgg/201504/t20150402_52050.htm" target="_blank" rel="nofollow">发表声明</a>回应。声明称，CNNIC对谷歌公司做出的决定表示难以理解和接受，并敦促谷歌公司充分考虑和保障用户权益。CNNIC将切实保障已有用户的使用不受影响。</p>
+<hr><p>谷歌在其安全博客上发布<a href="http://googleonlinesecurity.blogspot.com/2015/03/maintaining-digital-certificate-security.html" target="_blank" rel="nofollow">声明</a>，经过谷歌对CNNIC证书事件的调查，谷歌将会在旗下所有产品里删除对CNNIC证书的信任，在过渡期内，现有的CNNIC用户将以白名单方式继续使用CNNIC证书一段时间。<br><br>早先，<a href="https://wam-pp.azurewebsites.net/node/403" rel="nofollow">埃及的证书机构MCS集团发布了针对谷歌域名的假证书，而这些证书都是由CNNIC颁发的</a>，据信这些假证书可能被用于中间人代理，拦截用户和目标网站的加密信息。<br><br>谷歌表示，如果CNNIC实施技术及流程改进杜绝此前发生的证书伪造事件，可以重新申请加入。现有CNNIC证书客户将暂时以白名单形式继续支持一段时间作为过渡。<br><br>在谷歌宣布旗下产品删除CNNIC根证书之后，CNNIC<a href="http://www.cnnic.net.cn/gywm/xwzx/xwzxtzgg/201504/t20150402_52050.htm" target="_blank" rel="nofollow">发表声明</a>回应。声明称，CNNIC对谷歌公司做出的决定表示难以理解和接受，并敦促谷歌公司充分考虑和保障用户权益。CNNIC将切实保障已有用户的使用不受影响。</p>
 <h2><strong>谷歌产品吊销CNNIC根证书对用户的影响</strong></h2>
 <p>在过渡期内，对已经发布的CNNIC证书，谷歌产品会继续支持，在谷歌下个版本的产品更新后，使用Chrome的用户将不再信任CNNIC证书，无法访问使用该证书的网站，谷歌原生Android用户使用内置浏览器也会出现同样效果。鉴于 目前使用CNNIC证书的网站并不多，因此对中国用户并无太大影响。</p>
 <p><em>参考资料：中国互联网络信息中心（China Internet Network Information Center，缩写为CNNIC），是经中华人民共和国国务院主管部门批准，于1997年6月3日成立的互联网管理和服务机构。中国互联网络信息中心成立 伊始，由中国科学院主管；2014年末，改由中央网络安全和信息化领导小组办公室、国家互联网信息办公室主管。</em></p>
@@ -300,7 +300,7 @@
 <p>
 	<small>19天前</small>
 </p><h2>
-	<a href="https://wam-pp.azurewebsites.net/article/406" target="paopao-mirror">伊朗的互联网：鲁哈尼执政两年以来的评估</a>
+	<a href="https://d3ati7u646xlpu.cloudfront.net/article/406" target="paopao-mirror">伊朗的互联网：鲁哈尼执政两年以来的评估</a>
 </h2>
 <p><p><br><em>文/Small Media研究员凯尔·鲍文，根据同名报道改写。</em><br><br>“网络过滤并没有阻止人们使用不道德的网站。强大的网络封锁只会加重人民和政府之间的不信任。”</p>
 <p>这些话是伊朗总统哈桑·鲁哈尼在赢得2013年大选之后不久说的，当时给伊朗人带来希望，以为网络会变得自由一些。对于伊朗网民，这无疑是令人欣喜的消息：内贾德（前总统）执政的最后一年半里，网络自由被不断收紧。</p>
@@ -324,7 +324,7 @@
 <p>
 	<small>20天前</small>
 </p><h2>
-	<a href="https://d3ati7u646xlpu.cloudfront.net/article/405" target="paopao-mirror">中国“旁观者攻击”显示网信办的介入</a>
+	<a href="https://d2tj697z1v6gzf.cloudfront.net/article/405" target="paopao-mirror">中国“旁观者攻击”显示网信办的介入</a>
 </h2>
 <p><p>全球程序员分享技术的网站Github遭受的攻击超过128个小时，在截稿前，Github在推特上表示“目前已一切正常运行”。软件安全公司<a href="http://www.netresec.com/?page=Blog&month=2015-03&post=China%27s-Man-on-the-Side-Attack-on-GitHub" rel="nofollow">Netresec对此次攻击的分析</a>显示，中国方面使用了“旁观者攻击”（Man-on-the-side）的方式发动DDoS。GreatFir也表示，对攻击的详细分析可观察到，中国网信办应对最近两次的攻击负责。</p>
 <h2><strong>旁观者攻击</strong></h2>
@@ -338,7 +338,7 @@
 <li>中国的一个被动检测设施探测到了浏览器发出的百度脚本请求；</li>
 <li>它发回 了伪造的响应而不是百度脚本，伪造的响应是一个恶意的脚本，它告诉用户的浏览器反复加载GitHub.com的两个特定页面（Greatfire和纽约时报中文网）。</li>
 </ol><p>分析显示，这些恶意的脚本是被注入的，并非来自百度的服务器。用户下载的百度统计脚本中，约有1%为伪造的恶意脚本。但考虑到全球网民数量，这1%仍对应着相当庞大的用户。分析也指出，攻击者至少劫持了10个百度 域名的脚本，其中包括了百度统计和百度广告。</p>
-<p>分析人员指出，从技术上来说，中国任何网站的脚本都可能被用来执行旁观者攻击。研究认为，<a href="https://d1pt9ebcelspr6.cloudfront.net/node/404" rel="nofollow">中国的防火墙已不仅是封锁信息，而变为积极攻击</a>。</p>
+<p>分析人员指出，从技术上来说，中国任何网站的脚本都可能被用来执行旁观者攻击。研究认为，<a href="https://d1rnppgpv4u79x.cloudfront.net/node/404" rel="nofollow">中国的防火墙已不仅是封锁信息，而变为积极攻击</a>。</p>
 <h2><strong>信息自由深受压力</strong></h2>
 <p>此次对GitHub的攻击是针对Greatfire的免翻墙镜像技术。3月中，Greatfire维护的免翻墙镜像网站（包括泡泡的镜像）遭到类似的DDoS攻击，为了减小攻击带来的损伤，Greatfire<a href="https://github.com/greatfire/wiki/wiki/paopao" rel="nofollow">将镜像网站的内容放在其GitHub页面上</a>。随后即发生了对他们的Github页面的攻击，影响到整个GitHub网站。</p>
 <p>GitHub是否会迫于中国方面的压力，将Greatfire的页面删除？对此，GreatFire的Charlie Smith告诉泡泡：</p>
@@ -346,14 +346,14 @@
 <p>
 	<small>21天前</small>
 </p><h2>
-	<a href="https://d3ati7u646xlpu.cloudfront.net/article/404" target="paopao-mirror">中国翻墙者被劫持为黑客 Github遭史上最大攻击</a>
+	<a href="https://d1pt9ebcelspr6.cloudfront.net/article/404" target="paopao-mirror">中国翻墙者被劫持为黑客 Github遭史上最大攻击</a>
 </h2>
 <p><p><span><strong>(泡泡报道）</strong> IT技术人员的圣地Github正在受到该论坛史上最大的网络攻击，Github日前在其博客上公开说。各方分析显示，此次攻击来自中国，且攻击技术高超：基本上，中国的翻墙者正在无意识中被劫持加入网络攻击，成为肉鸡。Github在博客中表示，此次攻击是“为了迫使其删除一些内容”。据分析认为，此次攻击具体是针对网络自由组织GreatFire等在Github上提供的免翻墙信息服务，但影响到了整个Github。</span></p>
 <p><span><em>更新（3月30日北京时间20：00）：</em><br><br>3月30日，在中国外交部的例行记者会上，当记者问到最近的网络攻击是否来自中国时，</span><a href="http://www.mfa.gov.cn/mfa_chn/fyrbt_602243/t1250194.shtml" rel="nofollow">交部发言人华春莹并未“否认”</a>，也为对此作出正面回答，强调“中国是黑客攻击最主要的受害者之一”：</p>
 <blockquote><p><span>近期似乎只要是美国或者其他哪个国家有网站受到攻击，就会有人联想是不是中方黑客所为，这很奇怪。我想提醒你，中国是网络黑客攻击的最主 要的受害者之一。我们一直强调，中方希望同国际社会一道，加快制订国际规范，共同维护好网络空间的和平、安全、开放与合作。希望各方都能以积极、建设性态 度合作应对网络黑客攻击问题。</span></p>
 </blockquote>
 <h2><strong><span>翻墙上百度，网民变黑客</span></strong></h2>
-<p><span>据</span><a href="http://news.boxun.com/news/gb/china/2015/03/201503271431.shtml#.VRVATJOUc_9" rel="nofollow"><span>推特消息</span></a><span>，北京时间3月27日12时左右开始，从境外访问v.baidu.com的时候被发现会出现Javascript alert出现的弹窗：WARNING: malicious javascript detected on this domain 。追查发现是百度广告管家的js <a href="http://cbjs.baidu.com/js/m.js?_=1427431567741">http://cbjs.baidu.com/js/m.js?_=1427431567741</a>在境外访问时被替换成一段特殊的js（</span><a href="http://pastie.org/10056531" rel="nofollow"><span>详细请求和返回的js</span></a><span>）。</span><br><br><span>分析认为，大致的流程就是： 1. GFW把某些常见网站的JS替换成以上js。2. 全球各地访问国内网站时，相当于成为DDoS的源（可能还有全国各地访问国外时，未经确认）3. GitHub不堪重负，把 <a href="https://github.com/greatfire/">https://github.com/greatfire/</a> 和<a href="https://github.com/cn-nytimes/">https://github.com/cn-nytimes/</a> 的返回改成一个alert: WARNING: malicious javascript detected on this domain （网站存在恶意JS代码调用）。当境外用户访问内置境内一些网站如百度的JS调用的网站时，中国的国家防火墙GFW将这部分调用替换成重定向至目标网站，以调用民用流量的方式，实现对目标网站的DDOS攻击。</span><a href="https://d2tj697z1v6gzf.cloudfront.net/node/396" rel="nofollow">GreatFire在3月中曾遭到来自中国的DDoS攻击</a>。针对此次攻击，Greatfire正在进行调查。<br><br><span>技术人士@yegle 认为，用js来实现攻击远胜过早年利用DNS污染的DDOS攻击，只损失了百度的revenue，但能实现单页面反复攻击多个目标。为什么要劫持百度来攻击GITHUB呢？ </span><a href="https://iyouport.com/archives/25775" rel="nofollow"><span>Larry Salibra</span></a><span>认为：1. 这方式的优点是可以无需劫持大量电脑，也可以让网站访客在不自觉的情况下成了攻击行动的帮凶; 2. 让人产生攻击是来自中国境外的错觉 3. 希望透过服务供应商向外国媒体施压，删除中共官方不喜欢的内容。</span></p>
+<p><span>据</span><a href="http://news.boxun.com/news/gb/china/2015/03/201503271431.shtml#.VRVATJOUc_9" rel="nofollow"><span>推特消息</span></a><span>，北京时间3月27日12时左右开始，从境外访问v.baidu.com的时候被发现会出现Javascript alert出现的弹窗：WARNING: malicious javascript detected on this domain 。追查发现是百度广告管家的js <a href="http://cbjs.baidu.com/js/m.js?_=1427431567741">http://cbjs.baidu.com/js/m.js?_=1427431567741</a>在境外访问时被替换成一段特殊的js（</span><a href="http://pastie.org/10056531" rel="nofollow"><span>详细请求和返回的js</span></a><span>）。</span><br><br><span>分析认为，大致的流程就是： 1. GFW把某些常见网站的JS替换成以上js。2. 全球各地访问国内网站时，相当于成为DDoS的源（可能还有全国各地访问国外时，未经确认）3. GitHub不堪重负，把 <a href="https://github.com/greatfire/">https://github.com/greatfire/</a> 和<a href="https://github.com/cn-nytimes/">https://github.com/cn-nytimes/</a> 的返回改成一个alert: WARNING: malicious javascript detected on this domain （网站存在恶意JS代码调用）。当境外用户访问内置境内一些网站如百度的JS调用的网站时，中国的国家防火墙GFW将这部分调用替换成重定向至目标网站，以调用民用流量的方式，实现对目标网站的DDOS攻击。</span><a href="https://wam-pp.azurewebsites.net/node/396" rel="nofollow">GreatFire在3月中曾遭到来自中国的DDoS攻击</a>。针对此次攻击，Greatfire正在进行调查。<br><br><span>技术人士@yegle 认为，用js来实现攻击远胜过早年利用DNS污染的DDOS攻击，只损失了百度的revenue，但能实现单页面反复攻击多个目标。为什么要劫持百度来攻击GITHUB呢？ </span><a href="https://iyouport.com/archives/25775" rel="nofollow"><span>Larry Salibra</span></a><span>认为：1. 这方式的优点是可以无需劫持大量电脑，也可以让网站访客在不自觉的情况下成了攻击行动的帮凶; 2. 让人产生攻击是来自中国境外的错觉 3. 希望透过服务供应商向外国媒体施压，删除中共官方不喜欢的内容。</span></p>
 <div><img height="480" width="270" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/large/public/tu_3_0.jpeg?itok=5Za3r55x" alt="" title=""><br> </div>
 <div><span>其实不一定需要访问百度，<strong>中国国内一些论坛等网站都被植入了百度联盟广告，GFW给他们的 JS 插入了攻击代码，用户读取之后就去攻击 GitHub 了</strong>。<strong>国内用户访问百度不经过GFW，只有翻墙者会被变成攻击者。</strong>另有推特网友分析指，“一个真正的海外用户，首选搜索引擎应该是谷歌而不是百度。那么，来自海外IP对百度的访问，多数应该是通过代理翻墙的境内用户。这样GFW就可以收集很多用户的代理IP，并且通过搜索行为等判断是否翻墙。估计又会有很多VPN和翻墙软件会失效”。</span><br><br><span>翻墙者@bitinn 表示： <strong>利用平民上网的正常流量进行DDoS已经成为中国全新的政治武器。</strong>新的被害者是：GitHub。换而言之，我们已经从Defensive（防卫）变为Offensive（攻击）了。百度攻防安全实验室官方微博28日上午否认此次攻击与自身安全性有关，称：“百度安全工程师经过仔细排查，已经排除自身产品的安全问题和黑客攻击的可能。我们也已经向其他网络安全机构通报情况，共同对相关问题进行进一步诊断”。如若属实，当可确认攻击来自GFW。</span></div>
 <div> </div>
@@ -389,7 +389,7 @@
 <p>
 	<small>22天前</small>
 </p><h2>
-	<a href="https://wam-pp1.azurewebsites.net/article/403" target="paopao-mirror">中国封杀有关CNNIC发布中间人证书的文章</a>
+	<a href="https://d2tj697z1v6gzf.cloudfront.net/article/403" target="paopao-mirror">中国封杀有关CNNIC发布中间人证书的文章</a>
 </h2>
 <p><p>日前，谷歌发现在多个未授权的针对谷歌域名的电子证书，而这些证书的根证书属于中国互联网络信息中心（CNNIC）。谷歌和Mozilla（火狐）分别公开了这一安全事件，就此分别发表了博客文章(<a href="http://googleonlinesecurity.blogspot.com/2015/03/maintaining-digital-certificate-security.html" target="_blank" rel="nofollow">Google</a>, <a href="https://en.greatfire.org/https/blog.mozilla.org/security/2015/03/23/revoking-trust-in-one-cnnic-intermediate-certificate/comment-page-1" title="0% blocked" rel="nofollow">Mozilla</a>)。但谷歌与Mozilla有关CNNIC发布中间人攻击证书文章的中文翻译，则在中国被勒令删除。</p>
 <ul><li>
@@ -421,7 +421,7 @@
 <p>
 	<small>27天前</small>
 </p><h2>
-	<a href="https://d1pt9ebcelspr6.cloudfront.net/article/401" target="paopao-mirror">是富士康养活了中国工人，还是中国工人养活了富士康？</a>
+	<a href="https://wam-pp.azurewebsites.net/article/401" target="paopao-mirror">是富士康养活了中国工人，还是中国工人养活了富士康？</a>
 </h2>
 <p><p>打从九十年代起，“老板养活了工人”的说法就大行其道，直到今天我们都对这种说法耳熟能详，所以就出现一种异象：从主流经济学家到普通老百姓，都流行一种论调，认为正是因为有了富士康这样的大资本、大企业，才养活了富士康100多万工人——是啊，你看，如果让他们留在农村，难道出路会更好吗？倒不如进城打一份工，反正工资肯定比留在老家种田要高，还能在城里长长见识。说到底，你们工人需要感恩——因为如果没有老板，你们哪有这样的日子？！<br><br>任何的言论都有立场，也有代言人。主流舆论糊弄我们，说是这些老板养活了这批工人，但事实一清二楚：如果没有工人，这些外资企业纵有再高的技术，再精良的管理，再先进的生产资料，全都是扯澹。农民工不是石头缝里莫名蹦出来的怪物，而是一只国家的“有形之手”和另一只资本“无形之手”高度合作的产物。<br><br>回溯历史，我们就知道这套论述何其荒谬：1978年后，农村改革首先解体集体经济，带来分田到户、小农经营，制造出大量“剩余劳动力”；随后的城市改革，一方面是国企改制，造成大量国企工人下岗，另一方面则是吸引外资，在沿海开设劳动密集型代工厂，从而招募大量来自农村的“剩余劳动力”（事实上，这些劳动力正值壮年，一点也不“剩余”）。今天我们都知道了，这些劳动力就是农民工，中国现在有两亿六千万这样的新工人。<br><br>在农村，先是让一种落后的生产方式——小农经济重新出现，大量青壮劳力于是赋闲，无法投入于一种“工农商学兵”相结合的新经济模式。接着用城市消费主义来吸引农村年轻人，并用各种办法给这些农村青壮劳力贴标签（比如“素质低”，所以才需要去城市打工“长见识”，去市场经济里“靠自己”），努力让农村“低城一等”，制造没有任何“出路”的农村——无他，为了让农民尽快转变为农民工罢了。这样，在全球化的推波助澜下，我国费尽心思“请”来的资本就“吸纳”了大量“剩余人口”，解决了大量“农村剩余劳动力”的就业——接着告诉所有老百姓：看，资本多么不可或缺！<br><br>好的东西扔掉了，恶的事物一出现，就作威作福，这当然是阶级利益在作祟。于是，还有人说：是啊，我承认事实如此，那你不能否认，农民工因此客观得到了比他／她留在农村多得多的好处——最起码，他们赚了钱，也在城市见识了世面。<br><br>听到这里，我们只能呵呵了。资本不跟你讲良心，只跟你讲赚钱，所以才要每天把工人当牛马而非人来使（超长工时，单一重复简单劳动），超低工资（底薪太低，不得不加班），没有劳动保障、五险一金甚至没有劳动合同。是啊，作为世界工厂的中国效率真是高啊，全世界都是中国制造了，中国也成为全球第二大经济体了——蛋糕越做越大，但是工人分到了多少？高利润、高效率带来的财富，大头难道不是都流到国际品牌、大资本家和贪官污吏的腰包里吗？这么高的效率，敢情不是为工人自己服务，而是为肉食者们服务！表面上美其名曰“创造就业机会，实现自我发展”，事实上是不留余地的为资本积累。<br><br>不妨以我们最熟悉的富士康为例。乘着改革开放的东风，<strong>富士康于1988年在中国大陆建立了第一个生产中心，随后在地方政府的支持下不断扩张，从初时深圳西乡只有150个工人的全资子公司，到2014年时已占领了三分之一的中国版图，拥有超过一百三十人万工人，中国大陆已经成为富士康全球生产基地的心脏地带。</strong>中国各级政府则忙着提供土地、抓紧配套基建（如光缆、电、水、天然气、道路、交通）、给各下级单位制定招工指标、把职业学校变成学生工基地（还要美其名曰“实习”，不“实习”不能毕业），也不知道到底是政府需要富士康，还是工人需要富士康。<br><br>至于那些说工人该感恩富士康给了一份煳口工作的，我们笑而不语，只是盛情邀请各位抱此看法的朋友进富士康工厂，当几天一线普工试试。首先，<strong>富士康一线普工只有不到两千块钱的底薪，只能靠“自愿加班”赚多一些</strong>，如果没有加班，两千块钱这个水准在城市连煳口都成问题；其次，工人每天在流水线站着，重复同一个简单乏味的动作三五千次，人和机器一样，看不到自己的劳动价值和成就感；其三，最勤劳的人拿到的却最少，然后这些肉食者反倒要工人感恩，把这种“吃人”的制度说成是“天经地义”、“自由选择”。</p>
 <h2><strong>富士康和烂苹果，果断扔掉！</strong></h2>
@@ -429,7 +429,7 @@
 <p>
 	<small>27天前</small>
 </p><h2>
-	<a href="https://wam-pp.azurewebsites.net/article/400" target="paopao-mirror">微信式圈子</a>
+	<a href="https://d1pt9ebcelspr6.cloudfront.net/article/400" target="paopao-mirror">微信式圈子</a>
 </h2>
 <p><p>微信的设计满足了（或也可以说是暴露了）一定程度上的人性需求，以各式各样的圈子交织汇集而成的社交生态，体现的是弱自我和独立恐慌症，增强了狭隘和自傲，阻碍了讯息流通，弱化了价值体现的充分条件。</p>
 <h2><strong>为什么会</strong><strong>“</strong><strong>圈子</strong><strong>”</strong></h2>
@@ -457,7 +457,7 @@
 <p>
 	<small>29天前</small>
 </p><h2>
-	<a href="https://wam-pp1.azurewebsites.net/article/396" target="paopao-mirror">互联网自由在中国遭受新攻击</a>
+	<a href="https://wam-pp.azurewebsites.net/article/396" target="paopao-mirror">互联网自由在中国遭受新攻击</a>
 </h2>
 <p><p>3月17日起，互联网技术“<a href="http://openitp.org/pdfs/collateral_freedom_zh.pdf" rel="nofollow">依附的自由</a>”在中国受到持续的DDoS攻击。过去的几天里，作为最早几个使用这项技术来绕过中国网络审查的网站之一，泡泡网也感受到了攻击导致的镜像网站运营故障。<br><br>德国之声、中国数字时代以及其他使用这项技术的新闻资讯网站都是这次攻击的受害者。<br><br>在Great Fire——“依附的自由”系列网站的维护者——于3月19日发出一封<a href="https://zh.greatfire.org/blog/2015/mar/we-are-under-attack" rel="nofollow">公开求助信</a>之后，已经有至少300位对处理DDoS攻击有经验的专家参与了援助。截至发稿时，Great Fire已经“能够通过做出改变来抵抗这次攻击的冲击”，泡泡网和其他镜像网站也已经“对来自中国的访问重新开放。<br><br>“我们收到了不计其数的支持。太惊人了！”Charlie Smith告诉泡泡，他是Great Fire的三位联合创始人之一，“至少300个人表示想要帮助我们，这真的很让人吃惊。我相信如果将来问题加剧，这300个人一定也会愿意帮助我们。”<br><br><strong>第一次遭受DDoS攻击</strong><br><br>Charlie Smith表示，这是自2013年启动以后，“依附的自由”技术第一次遭受<a href="http://zh.wikipedia.org/wiki/%E9%98%BB%E6%96%B7%E6%9C%8D%E5%8B%99%E6%94%BB%E6%93%8A" rel="nofollow">DDoS</a>攻击。“依附的自由”得以运作的前提，是中国的审查者慑于经济利益的考量，不希望封锁掉整个<a href="http://zh.wikipedia.org/wiki/%E5%85%A7%E5%AE%B9%E5%82%B3%E9%81%9E%E7%B6%B2%E8%B7%AF" rel="nofollow">CDN</a>（Content Delivery Network，内容分发网络）。对审查者来说，想要封锁掉特定的网站和APP，他们不得不封锁掉被同一个CND服务的所有网站和APP。<br><br>然而，DDoS攻击可以通过向特定网站发送洪水般的请求来打击它们。在这次攻击中，Great Fire的镜像网站就收到每小时约26亿次的请求，这大概是它们正常水平的2500倍。<br><br><strong>资源的竞争</strong><br><br>这次攻击给Great Fire造成了巨大的带宽费用，大约30000美元每天。由于任何人从任何地方都可以轻松地发起DDoS攻击，这从根本上变成了一场资源的竞争。小而独立的媒体网站在这种攻击中格外脆弱，因为它们没有足够的资源来应对攻击，特别是当对手以国家为后盾。如果亚马逊要求Great Fire——这个由三个志愿者共同成立的网络自由组织——来支付这笔费用，这将“对它们的工作产生巨大的挤压”，Great Fire在公开求助信中这样表示。<br><br>泡泡网的技术人员表示，尽管亚马逊和其他的云服务提供商拥有DDoS见面机制——例如为你的网站设置一个带宽费用的上限——但遭受DDoS攻击的网站是否需要支付带宽费用，主要还是由服务商公司来决定。<br><br>Charlie Smith告诉泡泡，“我们正在跟我们在亚马逊的账户经理进行沟通，他们提供了极大的帮助。现在我们正专注于处理这个攻击。我们还没有讨论到费用，但这也不是亚马逊的客户第一次遇到类似的情况。我相信会找到一个好的解决方式。”<br><br>“我们需要更多像亚马逊一样的公司站在我们这边，更重要的是，站在言论自由这边。”Great Fire在公开信中这样表示。泡泡网业已<a href="https://twitter.com/paopaonet/status/578843483617824768" rel="nofollow">号召</a>读者们写信给亚马逊，请求它在言论自由中扮演重要角色。<br><br><strong>科技公司的角色</strong><br><br>这并不是“依附的自由”技术第一次遭受攻击。中国当局曾经试图干扰包括泡泡网在内的多个镜像网站。在2014年11月，包括大西洋月刊、索尼在内的上千个网站在中国大陆遭到封锁，原因是著名CDN服务商Edge Cast遭到当局干扰。Edge Cast正是Great Fire建立泡泡、中国数字时代、博讯等镜像网站时所使用的云服务。根据华尔街日报报道，另一家CDN服务商，Cloud Fare在上周表示，它切断了蓝灯(Lantern，一个反审查APP)的服务使用权。“我们不会干扰中国或其他国家对内容的限制。”Cloud Fare的CEO，Matthew Prince表示，“我们是一家科技公司，我们遵守法律。”<br><br>在一个很受欢迎的论坛上，一位为“hackuser”的网友表示不赞同这种看法，他/她认为科技公司也应该承担对世界的责任。在他/她看来，科技公司的正确看法应该是这样的：<br><br>“我们是一家科技公司，我们的成功依赖于我们所属国家和世界上其他很多国家的自由，以及政治经济系统、基础设施、和大量从它们而来的财富。如果不是我们的祖先在千百年前的牺牲、热血和财富，还有很多当今的人们，我们不会拥有今天这样的资源和机会。很多天才，出生在那些不具备这种自由的国家，没有机会像我们一样成功。”<br><br>Great Fire提醒亚马逊和其他CDN服务商，“作为一个前沿的全球性互联网的促成者，它在信息接入方面扮演了重要角色。”<br><br><strong>可以信任的服务商</strong><br><br>这次攻击也揭示了存在于云服务中的安全问题。“它们在你的控制之外，而且经常没有真正地关心安全。”Gillio Cultrupi，一位来自Tactical Tech的安全专家在邮件采访中告诉泡泡。“我总是倾向于选择可信赖的服务提供商，将网站建立在那些法律允许完全保护个人隐私的国家。它当然必须是可信的，以用来防止攻击或回击已经存在的攻击。”<br><br>“如果网站在特定的国家不能登录，我会做出额外的努力来推广Tor（一个允许匿名交流的规避软件）。”Cultrupi补充道。<br><br>目前仍不知道谁发动了这次DDoS攻击。Charlie Smith告诉泡泡，“一旦我们搜集好证据、并将之分享给独立于Great Fire的专家，我们会将调查结果公之于众。”</p>
 <p> </p>
@@ -483,7 +483,7 @@
 <p>
 	<small>32天前</small>
 </p><h2>
-	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/388" target="paopao-mirror">观点：社会变革：数字媒体做不到什么</a>
+	<a href="https://wam-pp1.azurewebsites.net/article/388" target="paopao-mirror">观点：社会变革：数字媒体做不到什么</a>
 </h2>
 <p><p><strong>我们不应该责怪不给力的数字媒体，而是要直面这样一个现实：在任何需要付出实际代价，面临社会风险的行为上，真正贡献心力血汗的人，永远是社会中的少数。</strong><br><br>过去五年，每一场新的革命和社会运动，都会将一些新的数字媒体推向舆论前台。而数字媒体的普及，则激发了新的革命想象：借由新技术，更多的人将自我组织，自我动员，自我启蒙，他们将更少受制于传统的，极少数的社会运动领导方。<strong>集体行动，似乎让位于很多个人和小社团的分散化行动。</strong><br><br>新革命想象的流行，引发了关于社会运动“去中心”的争论。怀揣话语权的评论家们，有的认为“去中心化运动有利于传播，不利于政权定点清除，因此更容易成功”，有的却觉得“去中心化容易出现组织散乱，不利于运动协调，因此容易失败”。两方的观点似乎都有道理，因而也都可以引来不少拥趸。<br><br>说到底，数字政治的很多争论，之所以论战方各执一词，无非两个原因，<strong>一是因为数字技术的作用不是个全称命题，加上其他控制条件，数字媒体的社会政治后果本来就是自相矛盾，不可预测，且高度依赖于具体情境的；二是虽然讨论激烈，人们却未就</strong><strong>“</strong><strong>数字抗争</strong><strong>”</strong><strong>，</strong><strong>“</strong><strong>网络</strong><strong>”</strong><strong>，</strong><strong>“</strong><strong>个体化</strong><strong>”</strong><strong>等基本概念达成共识。</strong>人们争相用涵盖性的术语来讨论问题，有意或无意地掩盖了定义上的分歧。</p>
 <h2><strong>模糊的去中心</strong></h2>
@@ -498,7 +498,7 @@
 <p>
 	<small>32天前</small>
 </p><h2>
-	<a href="https://d1pt9ebcelspr6.cloudfront.net/article/395" target="paopao-mirror">涂市长，问题不是在i-voting</a>
+	<a href="https://wam-pp1.azurewebsites.net/article/395" target="paopao-mirror">涂市长，问题不是在i-voting</a>
 </h2>
 <p><p>编者按：<strong>台湾嘉义市今年开始的电子投票（i-Voting），表面上给了市民自主权，但在缺乏充分资讯的前提下，网络票选也只不过把市民当道具，把i-Voting当作是装饰民主的公关活动。</strong><br><br>嘉义市长涂醒哲继上回“垂杨路公车站牌是否移到人行道”的i-Voting被打脸后，隔了一个月，再次推出新的“选择题”。<br><br>市府这次进行的网路民调——“嘉义市公车这样走好不好？”，要了解民众对市府公车路线规划的意见，并且会将投票结果与客运业者协调。不过，投票结果到底有多少“效力”？市府是不是真会参考？恐怕仍然是个谜。</p>
 <p></p><div><img height="129" width="480" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/large/public/jiayi_0.jpg?itok=Dz1r30h9" alt="" title=""><div><div><div><a href="http://www.chiayi.gov.tw/2011web/index_2.aspx">图：嘉义市政府</a></div></div></div></div><br><br>今年1月，嘉义市政府举办i-Voting决定垂杨路公车站牌是否移至路边，过半的民众表示应该留在原地，投票结果和市府原有的搬迁规划大相迳庭。然而，口口声声要倾听民意的嘉义市府，却仍然按照原计划编列预算执意变更。没想到，议会决定“顺应民意”，把相关预算“顺手”删除，嘉义市府冏到爆，不但背上了“背离民意”的骂名，还丢了500万经费。<br><br>i-Voting不是不能办，而是办的目的及效力到底是什么？要先讲清楚，更重要的是，市府团队要先搞清楚，市政如果真的要让公民参与，i-Voting并不能达到这样的目的。<br><br><strong>网路票选就像试卷上的选择题，出题者设定好选项，让作答者在既有框架中进行选择，表面上看起来有选择权、自主权，但实际上只能在别人建构的游戏规则里打转，就好像孙悟空坐上筋斗云，翻了十万八千里，自己觉得自由自在、十分爽快，但最后仍然逃不过如来佛的掌心。</strong><br><br>就算真的只能在既有的框架里作答，在选择之前，出题者也可以先提供给民众充份的资讯，让大家有判断的知识与基础，这种选择才稍微有点意义。<br><br>例如，嘉义市府要增辟或合并车道，至少要先告诉市民市府整体交通规划是什么？增建或整并车道前、后会有什么不同？交通流量有什么改变？一但删减某个车道，是否有相关的配套措施？对原来用路人权益会造成什么影响？然而，市府完全没有提供任何现有公车搭乘人数、交通流量统计数据、未来交通流量的预估、相关替代方桉，这些资讯都不清楚，就要让人民投票<strong>，在完全没有任何科学的依据情况上，除非市民自己努力调查，否则只会沦为个人的主观判断与好恶选择，这样做，真的对市政有帮助？</strong><br><br>不过，针对这样的质疑，市府在接受媒体访问时却说：“如果提供讯息太多，担心民众没耐心阅读；而题目设计若是太开放，可能难以得到结论。”这种说法不但不符公民参与的精神，也是小看了人民的智慧及参与公共事务的能力。<br><br>除了市府要先做足功课，提出各样的调查、规划与评估听取民众的意见，更重要的是，既然目的是要公民参与，就应该促成人民与政府；人民与人民之间的对话。<br><br>选举之前，政治人物很喜欢办小型“客厅会”，走入民家了解民意，并请民众对市政提出建言，这样的活动，涂醒哲也办过。当然，市长公务繁忙，也不会再像选前一样积极殷勤，但仍可以由各局处在不同地区，依不同对象针对市政举办说明会、公听会，向人民报告，倾听民意与民众对话，难道也做不到？<br><br>公共讨论虽然耗时、费力，但民众才能真正参与，并能激发更多的想像。其实，在涂醒哲市长的脸书（facebook）上，针对这个问题的讨论就十分精彩，民众也提出各样的看法与建言。例如，有网友就认为，嘉义市的医疗专车密度全国第一，建议跟各大医院医疗专车结合；也有人觉得可以参考东京山手线，以环形方式由世贤路顺逆向环绕嘉义市，再经由棋盘式小公车纵横市区，涵盖幅员广大，便利性佳，增加民众撘乘意愿，并均衡各区域市容及商圈发展。除此之外，嘉义街道较小，也可以考量引进小型巴士，既可以节省成本，降低污染，也方便民众搭乘。<br><br>这些意见虽然未必会比市府现有的规划更好，但绝不会是选择题式i-Voting能够问出的答案，不过，这样做，不仅公民能够参与，更有可能透过公共讨论激发出更多的想法与可能，也才符合民主的真正精神。<br><br>然而，市府出的“选择题”其实只是“为了有效吸引民众参与”，并不是真想要了解民意，要公民参与。说到底，也只不过把市民当道具，把i-Voting当作是装饰民主的公关活动。<br> 
@@ -506,7 +506,7 @@
 <p>
 	<small>34天前</small>
 </p><h2>
-	<a href="https://wam-pp.azurewebsites.net/article/394" target="paopao-mirror">充满“正能量”的网络是怎么来的？</a>
+	<a href="https://wam-pp1.azurewebsites.net/article/394" target="paopao-mirror">充满“正能量”的网络是怎么来的？</a>
 </h2>
 <p><p>2月28日，官媒<a href="http://news.xinhuanet.com/local/2015-02/28/c_127527666.htm" rel="nofollow">光明网</a>发表了一篇题为《十八大以来中国网络生态环境调查：网络空间日益清朗》的报道，文中称：2015年1月底，民调公司零点调查对党的十八大以来我国网络生态环境的各方面变化情况进行了系统调查。调查在全国45个大中城市进行，主要针对大专以上学历网民进行了在线调查，共计回收有效样本8948个。调查结果显示，80%以上的网民认为网络充满正能量……网民普遍认为网络有害信息和侵权行为有所减少；90%以上的网民表示支持政府发起的各项网络治理行动；90.6%的网民对我国网络的健康规范发展充满信心……</p>
 <p>        报道说，“有近八成网民对近两年部分网络“大V”传播谣言现象感觉有所减少（77%）”。文章表示：“一年多来，在中央网络安全和信息化领导小组的直接领导下，国家网信办相继推出‘微信十条’‘账号十条’等一系列规定，两高出台打击网络谣言及利用网络实施诽谤入罪的司法解释，收效明显。中央网络安全和信息化领导组组长是习近平。”很明显，指的是以递进式强化的力度进行了一年多的运动式净网，“充满正能量”的网络生态正是大清洗的结果。</p>
@@ -523,7 +523,7 @@
 <p>        另，新浪微博的个人注册早已是必须手机认证。注册页下方还关联了三个链接：微博服务使用协议、微博个人信息保护政策，甚至还有一个新闻链接：“<a href="http://news.sina.com.cn/c/2012-12-29/051425921660.shtml" rel="nofollow">全国人大常委会关于加强网络信息保护的决定</a>”，将前面“使用协议”里提到的实名制和ID头像管制条例“正当化”。截至目前为止，尚未见到早前注册的未经实名账号出现被终止使用的状况，但无法确保这种状况能维持多久。其实也无所谓，只要恐惧和厌弃心态足够普遍、其带来的自我审查效果足够令当局满意，“目的”就已达到了。</p>
 <p><strong>实名制的同时封锁账号力度明显加大</strong></p>
 <p>        近日有报道指出，北京两会期间，腾迅微博、新浪微博以及微信再现大规模封号现象，有网民表示“此次封号程度之疯狂史无前例”。近期因柴静拍摄的纪录片《穹顶之下》引发舆论大范围关注，先是由官媒联手大V账号主导力推，随即又疑似因控制不住舆论中愈见突出的问责政府的倒向而迅速遭到全网下架的禁令。治理空气污染是两会主题之一，片子被撤后随两会推进“治霾”话题一直是官媒主要话题之一，但同时一些网民仅因转发了反对雾霾的帖子就被连封数个账号。笔者试图采访被封账号的当事人，连发多个信息却未始终收到回复。与此同时，两会上解放军代表成都军区某部副指导员强调“意识形态斗争”，称“<a href="http://economy.caijing.com.cn/20150311/3836766.shtml" rel="nofollow">网权亦‘兵权’</a>，我们决不能拱手相让。</p>
-<p>        近日也出现多起异议人士微信账号忽然被关停的案例，分析认为大致和线下行动的线上商讨有关，且被封号在商讨并未完结之时。如假设其间没有参与者走漏风声，那么足以肯定，<a href="https://wam-pp1.azurewebsites.net/article/385" rel="nofollow">微信（尤其是群聊）</a>的私密性几乎不存在、其上显示的维稳执行速度绝不亚于墙内其他公开社交平台。被封闭的微信账号如持有者尚在登陆中会显示为无法发言。</p>
+<p>        近日也出现多起异议人士微信账号忽然被关停的案例，分析认为大致和线下行动的线上商讨有关，且被封号在商讨并未完结之时。如假设其间没有参与者走漏风声，那么足以肯定，<a href="https://d1pt9ebcelspr6.cloudfront.net/article/385" rel="nofollow">微信（尤其是群聊）</a>的私密性几乎不存在、其上显示的维稳执行速度绝不亚于墙内其他公开社交平台。被封闭的微信账号如持有者尚在登陆中会显示为无法发言。</p>
 <p><img height="480" width="358" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/large/public/tu_5.jpeg?itok=EY0Yiq9Z" alt="" title=""></p>
 <p>        如当时未登录则被不能登录，显示：账号涉嫌违规，无法解封： </p>
 <p><img height="480" width="270" typeof="foaf:Image" src="https://d1pt9ebcelspr6.cloudfront.net/sites/pao-pao.net/files/styles/large/public/tu_6.jpeg?itok=4P-jB9pm" alt="" title=""></p>
@@ -536,7 +536,7 @@
 <p>
 	<small>34天前</small>
 </p><h2>
-	<a href="https://wam-pp1.azurewebsites.net/article/393" target="paopao-mirror">仇和倒台与五毛兴衰史</a>
+	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/393" target="paopao-mirror">仇和倒台与五毛兴衰史</a>
 </h2>
 <p><p>在全国两会上做完“我们这个党最廉政”的报告后，全国人大代表、昆明市委书记仇和被中纪委宣布存在严重违纪违法问题，这个消息宣布的时候，差不多与李克强举行总理招待会的时间同步。以致于外界猜测，招待会之所以急忙宣布结束，就是怕与仇和落网冲撞导致总理尴尬。</p>
 <h2><strong>五毛党始祖倒台</strong></h2>
@@ -568,7 +568,7 @@
 <p>
 	<small>36天前</small>
 </p><h2>
-	<a href="https://d3ati7u646xlpu.cloudfront.net/article/392" target="paopao-mirror">中港政治雾霾</a>
+	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/392" target="paopao-mirror">中港政治雾霾</a>
 </h2>
 <p><p>过去一周，天气阴沉，空气质素很差。<br><br>当然，香港空气里的PM2.5远远不及北京的严重，仍受雾霾困扰。跟北京一样，香港的政治雾霾，也比PM2.5更令人窒息。<br><br>柴静的《穹顶之下》，有超过二亿击点，这个数字，撇除了名人效应，反映环境污染是国人极为关心的议题，也使中央政府由默许影片流通的姿态，180度变成禁止播放，因为它不能让这二亿击点，化成为民间的共识与民意，成为共产党的政治压力。<br><br>事实上，自共产党于2013年开始打压推动以“公民”作为主题的维权意识的自由派意见领袖以来，大陆的互联网大众沉默起来，这大众大概是默默观看并传送《穹顶之下》的二亿人。</p>
 <h2><strong>劈柴</strong></h2>
@@ -580,7 +580,7 @@
 <p>
 	<small>36天前</small>
 </p><h2>
-	<a href="https://d2tj697z1v6gzf.cloudfront.net/article/391" target="paopao-mirror">从中国到全球：“依附的自由”网站解封升级</a>
+	<a href="https://d3ati7u646xlpu.cloudfront.net/article/391" target="paopao-mirror">从中国到全球：“依附的自由”网站解封升级</a>
 </h2>
 <p><p><strong>对抗中国网络封锁的“依附的自由”，日前为记者无国界组织利用。3月12日，记者无国界组织使用Greatfire的这一开源技术，为全球各地的9个网站解封，解封地区包括俄罗斯、伊朗、越南、古巴、沙特阿拉伯和中国。</strong><br><br>自从2013年成功用“依附的自由”技术解封第一个新闻网站以来，网络自由组织Greatfire便在探索对抗网络封锁的途径。<br><br>大量封锁翻墙工具在近期在中国遭到干扰。但Greatfire使用不同的翻墙技术：他们将网站放在全球领先的CDN上。审查部门要封锁这些网站与app，必须封锁这些CDN上的所有网站与app。由于CDN构成了超半数的全球网络交通，封锁CDN，将对中国的网络服务造成重大的干扰，将影响到每一个网民。其所造成的经济损失也将十分重大。Greatfire认为，中国当局也深知封锁这些CDN对经济的影响。<br><br>据Greatfire报道，中国当局试图通过干扰CDN来封锁他们的技术，但在封锁了一个CDN之后，便停止封锁其他CDN了。Greatfire因此认为，他们的这种“依附的自由”策略是成功的，便将该技术开源化，在其<a href="https://en.greatfire.org/https/github.com/greatfire" title="0% blocked" rel="nofollow">Github 页</a>上公开了源代码，以便他人能使用同样的技术来解封网站和app。<br><br>3月12日，在全球反审查日这天，记者无国界组织利用Greatfire的代码，为9个网站解封，分别针对俄罗斯、伊朗、越南、古巴、沙特、以及中国等国。记者无国界表示：</p>
 <blockquote><p>这些互联网的敌人审查互联网，剥夺了其居民在网络上获取独立报道的新闻与信息的权利。</p>
